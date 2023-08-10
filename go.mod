@@ -20,6 +20,7 @@ require (
 	github.com/bmatcuk/doublestar/v4 v4.6.0
 	github.com/cespare/xxhash/v2 v2.2.0
 	github.com/cheggaaa/pb/v3 v3.1.4
+	github.com/go-zookeeper/zk v1.0.3
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/snappy v0.0.4
 	github.com/googleapis/gax-go/v2 v2.12.0
